@@ -11,9 +11,13 @@ I’m Ayoub BOUBKRIOUI, currently I’m a software Engineer Student & a Mobile D
 I code for fun and to make people lives’ easier. I use the famous Flutter framework to develop Android applications. I usually use Java and its frameworks to develop backends.
 
 
-* 💻 I love helping people.
+* :desktop_computer: I love helping people.
+* :books: I like reading books 
 * :family_man_man_girl_boy: I love being with my family and friends, they are everything to me.
-* ✈️ I love to travel and get to know new places and cultures.
-* ⚽ Passionate about video games.
+* :national_park: I love to travel and get to know new places and cultures.
+* :video_game: Passionate about video games.
 
 
+## Languages and Technologies
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />](https://en.wikipedia.org/wiki/Java_(programming_language))
+          

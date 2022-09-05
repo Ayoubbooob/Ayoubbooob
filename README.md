@@ -11,9 +11,9 @@ I’m Ayoub BOUBKRIOUI, currently I’m a software Engineer Student & a Mobile D
 I code for fun and to make people lives’ easier. I use the famous Flutter framework to develop Android applications. I usually use Java and its frameworks to develop backends.
 
 
-*💻 I love helping people.
-*:family_man_man_girl_boy: I love being with my family and friends, they are everything to me.
-*✈️ I love to travel and get to know new places and cultures.
-*⚽ Passionate about video games.
+* 💻 I love helping people.
+* :family_man_man_girl_boy: I love being with my family and friends, they are everything to me.
+* ✈️ I love to travel and get to know new places and cultures.
+* ⚽ Passionate about video games.
 
 

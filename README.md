@@ -19,5 +19,5 @@ I code for fun and to make people lives’ easier. I use the famous Flutter fram
 
 
 ## Languages and Technologies
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />](https://en.wikipedia.org/wiki/Java_(programming_language))
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>](https://en.wikipedia.org/wiki/Java_(programming_language))
           

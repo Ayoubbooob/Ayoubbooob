@@ -26,3 +26,6 @@ I code for fun and to make people lives’ easier. I use the famous Flutter fram
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  width="60" height="60"/>](https://www.android.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  width="60" height="60"/>](https://code.visualstudio.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"  width="60" height="60"/>](https://git-scm.com/)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)

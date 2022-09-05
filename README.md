@@ -4,7 +4,7 @@
 [<img src ="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCHzqcQ1FY9ksX3ydcCtqyiA)
 [<img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/ayoub_boubkrioui/)
 
-## Hello World !  [image](https://user-images.githubusercontent.com/53185956/188398680-700939d5-dbb9-4040-b5e8-2a8db956e9ec.png)
+## Hello World! ![Alt Text](https://raw.githubusercontent.com/mupezzuol/mupezzuol/master/assets/earth.gif)
 
 I’m Ayoub BOUBKRIOUI, currently I’m a software Engineer Student & a Mobile Developer. I’m passionate about solving problems with convenient technologies. I code for fun and to make people lives’ easier. I use the famous Flutter framework to develop Android applications. I usually use Java and its frameworks to develop backends.
 

@@ -6,9 +6,9 @@
 
 ## Hello World! <img src="https://github.com/Ayoubbooob/Ayoubbooob/blob/main/assets/earth.gif" width = "30" height ="30" >
 
-I’m Ayoub BOUBKRIOUI, currently I’m a software Engineer Student & a Mobile Developer. I’m passionate about solving problems with convenient technologies. 
+I’m Ayoub BOUBKRIOUI, currently I’m a software Engineer Student. I’m passionate about solving problems with convenient technologies. 
 
-I code for fun and to make people's lives easier. I use the famous Flutter framework to develop Android applications. I usually use Java and its frameworks to develop backends.
+I code for fun and to make people's lives easier. I usually use Java and its frameworks to develop performant apps, and I use  Flutter & Jetpack Compose to develop Android applications.
 
 
 * :desktop_computer: I love helping people.

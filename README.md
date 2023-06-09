@@ -46,7 +46,6 @@ I code for fun and to make people's lives easier. I use the famous Flutter frame
 
     
 ## My Github Stats
-    <b>🛠️&nbsp;&nbsp;My&nbsp;Github&nbsp;Stats</b>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayoubbooob)](https://github.com/anuraghazra/github-readme-stats)
 
 

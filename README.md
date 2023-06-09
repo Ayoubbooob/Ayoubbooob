@@ -39,6 +39,20 @@ I code for fun and to make people's lives easier. I use the famous Flutter frame
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px"/>
     <img src="https://www.svgrepo.com/show/353631/dart.svg" height="40px"/>
+    <img src="https://www.svgrepo.com/show/349363/flutter.svg" height="40px"/>
+    <img src="https://www.svgrepo.com/svg/373728/kotlin" height="40px"/>
+    <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" height="40px"/>
+            <img src="https://www.svgrepo.com/show/349474/php.svg" height="40px"/>
+                    <img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40px"/>
+<img src="https://www.svgrepo.com/show/475631/android-color.svg" height="40px"/>
+<img src="https://www.svgrepo.com/show/341948/jetbrains.svg" height="40px"/>
+<img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40px"/>
+<img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40px"/>
+
+
+
+
+
     </p>
   <!-- <summary>
     <b>🛠️&nbsp;&nbsp;My&nbsp;Github&nbsp;Stats</b>
@@ -47,5 +61,8 @@ I code for fun and to make people's lives easier. I use the famous Flutter frame
     
 ## My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayoubbooob)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoubbooob&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 

@@ -23,19 +23,15 @@ I code for fun and to make people's lives easier. I use the famous Flutter frame
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"  width="80" height="80"/>](https://en.wikipedia.org/wiki/Spring_Framework)  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" width="100" height="100"/>](https://en.wikipedia.org/wiki/Dart_(programming_language))[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  width="80" height="80"/>](https://en.wikipedia.org/wiki/Flutter_(software))[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  width="80" height="80"/>](https://www.android.com/)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"  width="80" height="80"/>](https://code.visualstudio.com/)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"  width="100" height="100"/>](https://git-scm.com/) -->
 
 <p align="left">
-    
-    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40px"/>
-    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px"/>
- 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40px"/>
@@ -44,11 +40,13 @@ I code for fun and to make people's lives easier. I use the famous Flutter frame
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px"/>
     <img src="https://www.svgrepo.com/show/353631/dart.svg" height="40px"/>
     </p>
-  <summary>
+  <!-- <summary>
     <b>🛠️&nbsp;&nbsp;My&nbsp;Github&nbsp;Stats</b>
-  </summary>
+  </summary> -->
 
     
+## My Github Stats
+    <b>🛠️&nbsp;&nbsp;My&nbsp;Github&nbsp;Stats</b>
 
 
 
